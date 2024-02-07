@@ -12,4 +12,4 @@
 
 ## Screenshot
 
-![App Screenshot](https://github.com/Rahul-Bhutaiya/HTML-Projects/blob/main/email-application/project-screenshot/email-application.png?raw=true?raw=true)
+![App Screenshot](https://github.com/Rahul-Bhutaiya/HTML-Projects/blob/main/email-application/project-screenshot/email-application.png?raw=true)
