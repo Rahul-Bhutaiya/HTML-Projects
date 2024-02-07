@@ -1,0 +1,49 @@
+<!-- 
+Convert your HTML document into Electronic Mail Application.
+ -->
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email</title>
+    <link rel="icon" href="./mail.png">
+</head>
+<body>
+    <form>
+        <table align="center">
+            <thead>
+                <tr>
+                    <th colspan="2"><h1>RP's Email Services</h1></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th align="left"><label for="from">Email From </label></th>
+                    <td>: <input type="email" name="from" placeholder="email_from@gmail.com" required title="Enter Your Email Address Here"></td>
+                </tr>
+                <tr>
+                    <th  align="left"><label for="to">Email To </label></th>
+                    <td>: <input type="email" name="to" required placeholder="email_to@gmail.com" title="Enter Recievers Email Address"></td>
+                </tr>
+                <tr>
+                    <th align="left"><label for="Subject">Subject </label></th>
+                    <td>: <input type="text" placeholder="Email For What !!!" required title="Enter Subject of Email"></td>
+                </tr>
+                <tr>
+                    <th colspan="2" align="left"><label for="description">Description</label></th><br>
+                </tr>
+                <tr>
+                    <td colspan="2"><textarea name="description" cols="34" rows="10" placeholder="Descriptive Email Message Here" required></textarea></td>
+                </tr>
+                <tr>
+                    <th align="center" colspan="2"><button>Send ✉</button></th>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
