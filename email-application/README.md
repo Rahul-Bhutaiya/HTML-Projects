@@ -4,7 +4,7 @@
 
 ### Live Link
 
-- [https://time-craft-rp.vercel.app/](https://email-application-rp.vercel.app/)
+- https://email-application-rp.vercel.app/
 
 
 
